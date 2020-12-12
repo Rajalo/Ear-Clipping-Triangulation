@@ -1,4 +1,4 @@
-#Ear Clipping Triangulation#
+# Ear Clipping Triangulation
 
 This program is designed to demonstate how the ear-clipping algorithm for triangulating a polygon works. It has 4 phases, as explained below.
 
